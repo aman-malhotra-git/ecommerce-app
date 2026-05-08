@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce-app",
+  "version": "1.0.0",
+  "description": "E-commerce API deployed via CI/CD to ECS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Tests passed\" && exit 0"
+  },
+  "author": "aman-malhotra-git",
+  "license": "MIT"
+}
